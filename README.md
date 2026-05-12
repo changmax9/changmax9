@@ -1,7 +1,4 @@
 # Hi, I'm Max 👋
-
-I'm a student interested in web development, quant, and AI.
-
 ## 🚀 Projects
 - AP mock exam website
 - Question bank and student answer tracking system
